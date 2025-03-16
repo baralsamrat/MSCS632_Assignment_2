@@ -195,6 +195,11 @@ src/
     3.cpp
     3.java
     3.rs
+  4/
+    4.py
+    4.cpp
+    4.java
+    4.rs
 ```
 Shell Script: main.sh
 
@@ -203,7 +208,7 @@ The following script runs each file if it exists. It skips files that are missin
 ```bash
 #!/bin/bash
 echo "=========================================="
-for folder in 1 2 3; do
+for folder in 1 2 3 4; do
     echo "Processing folder $folder"
     
     # Python: folder/folder.py
