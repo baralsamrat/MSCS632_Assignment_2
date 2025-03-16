@@ -11,3 +11,7 @@ def outer():
 closure_function = outer()
 print("Python closure call 1:", closure_function())  # 11
 print("Python closure call 2:", closure_function())  # 12
+
+# Output
+# Python closure call 1: 11
+# Python closure call 2: 12
