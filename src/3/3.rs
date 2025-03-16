@@ -5,3 +5,7 @@ fn main() {
     println!("The value of x is: {}", x);
     // Memory is automatically freed when 'x' goes out of scope.
 }
+
+
+// Output: 
+// The value of x is: 42
