@@ -1,9 +1,3 @@
-Below is an example of a Markdown file (report.md) you can include in your repository:
-
-⸻
-
-
-
 # Assignment Report: Syntax, Semantics, and Memory Management
 
 ## Table of Contents
