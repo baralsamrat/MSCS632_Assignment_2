@@ -1,8 +1,8 @@
 #!/bin/bash
-# Loop through folders 1, 2, and 3 and run available files.
+# Loop through folders 1, 2, 3 and 4 and run available files.
 
 echo "=========================================="
-for folder in 1 2 3; do
+for folder in 1 2 3 4; do
     echo "Processing folder $folder"
     
     # Python: folder/folder.py
