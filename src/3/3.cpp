@@ -13,3 +13,6 @@ int main() {
     delete[] numbers;
     return 0;
 }
+
+// Output
+// Numbers allocated in C++
