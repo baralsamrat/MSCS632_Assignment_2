@@ -14,3 +14,8 @@ int main() {
     cout << "C++ lambda call 2: " << inner(1) << endl;  // 12 (x is updated within the lambda)
     return 0;
 }
+
+
+// Output
+// C++ lambda call 1: 11
+// C++ lambda call 2: 12
